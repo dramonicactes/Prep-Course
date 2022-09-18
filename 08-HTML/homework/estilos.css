@@ -1,0 +1,40 @@
+#divClass{
+   border: solid 1px cyan;
+   padding: 5px;
+   margin: 0;
+   width: 85%;
+   background-color: burlywood;
+}
+
+h1{
+    color: darkred;
+}
+#spanId{
+    font-size: 18px;
+    margin: 200px;
+} 
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend{
+    border: 1px solid sandybrown;
+    padding: 5px;
+    font-weight: bold;
+    background-color: darksalmon;
+    border-radius: 15px;
+}
+
+#mifoto{
+    border: solid 2px;
+    margin: 10px;
+}
+
+#expectativas{
+    margin-left: 50px;
+}
+
+body{
+    background-color: beige;
+}
